@@ -2,7 +2,7 @@ import openai
 from pathlib import Path
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 # File paths
 ROOT_DIR = Path(__file__).parent.parent  # Go up two directories from the script
